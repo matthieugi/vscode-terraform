@@ -1,4 +1,4 @@
-#Terraform VS Code environment in devcontainer (Docker)
+# Terraform sandbox for Azure in Docker (VS Code)
 
 - [x] Ubuntu image
 - [x] Terraform binaries
