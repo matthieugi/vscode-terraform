@@ -1,1 +1,6 @@
-[*] Creation d'un environnement de développement avec Terraform et Azure CLI
+#Terraform VS Code environment in devcontainer (Docker)
+[x] Ubuntu image
+[x] Terraform binaries
+[x] Az Cli binaries
+
+:+1:
